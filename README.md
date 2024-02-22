@@ -14,3 +14,4 @@ PostgreSQL <br>
 MySQL Workbench <br>
 Jupyter Notebook <br>
 Git (Obviously) <br>
+Amazon Redshift <br>
