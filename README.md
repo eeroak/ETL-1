@@ -1,5 +1,4 @@
-# ETL-1
-## Extract, Transform, Load -project  
+# Extract, Transform, Load -project  
 
 ### The point of this project is to: 
 <br>
