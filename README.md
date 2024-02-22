@@ -7,7 +7,7 @@ then extract it to a storage of somekind (in this case probably my local machine
 do an ETL job, load the data into a Data warehouse, and finally fetch it to a dashboard from the warehouse.
 <br>
 
-#### Technologies used: 
+#### **Technologies used**: 
 Python <br>
 PostgreSQL <br>
 MySQL Workbench <br>
