@@ -15,3 +15,8 @@ Jupyter Notebook <br>
 Git (Obviously) <br>
 Amazon Redshift <br>
 PowerBI
+
+## Authors  
+<ul>
+  <li>Eero Kuosmanen</li>
+</ul>
