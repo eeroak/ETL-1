@@ -20,3 +20,6 @@ PowerBI
 <ul>
   <li>Eero Kuosmanen</li>
 </ul>
+
+#### Project status
+Unfinished❌
