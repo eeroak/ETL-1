@@ -9,12 +9,11 @@ do an <strong>ETL</strong> job, load the data into a <strong>data warehouse</str
 
 #### **Technologies used**: 
 Python <br>
-PostgreSQL <br>
-MySQL Workbench <br>
 Jupyter Notebook <br>
 Git (Obviously) <br>
-Amazon Redshift <br>
-PowerBI
+PostgreSQL for database usage and creating a data model <br>
+Snowflake for data warehousing purposes <br>
+Bokeh for creating a simple dashboard
 
 ## Authors  
 <ul>
