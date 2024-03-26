@@ -32,8 +32,8 @@ Distributed under the MIT License. See LICENSE for more information.
     <li>I found the project very interesting and engaging, but i will use a more challenging dataset next time for sure for more challenge and so i can create better datamodels.</li>
     <li>Main challenges were with data-loading and extracting from snowflake and to PowerBI, since they are new technologies for me. I really liked snowflake tho, i can see myself using it in the future.</li> 
 </ul>
-</details>
 <img src="img\\snowflake_db.png" title="Data succesfully loaded in to snowflake database">
 <img src="img\\warehouse_activity.png" title="Succesful warehouse activity">
 <img src="models\\model.png" title="Data model created in PostgreSQL">
 <img src="img\\data_in_powerbi.png" title="A figure representing the average MSRP per year loaded from Snowflake to PowerBI">
+</details>
